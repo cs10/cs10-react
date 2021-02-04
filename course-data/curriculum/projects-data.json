@@ -13,8 +13,8 @@
     },
     "mastermind" : {
         "title" : "Project 2: Mastermind",
-        "spec" : "https://docs.google.com/document/d/1B-Ueptc-MmVpGsQ1FZ34wg_mZd9fpwJkDxcBjZfA7rc/edit?usp=sharing",
-        "submit" : "https://www.gradescope.com/courses/224752/assignments/927232",
+        "spec" : null,
+        "submit" : null,
         "resources" : []
     },
     "2048" : {
