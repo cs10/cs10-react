@@ -15,7 +15,7 @@
     "numberRepresentation" : {
         "title" : "Number Representation, Boolean Logic, and Conditionals",
         "worksheet" : "https://drive.google.com/file/d/12n30_kl_aWY73e-r5vmiQLM0x59986pJ/view?usp=sharing",
-        "solutions" : "htts://drive.google.com/file/d/1w7wCnQRDTbovLiVb7FG1CaDZm75W5owB/view?usp=sharing",
+        "solutions" : "https://drive.google.com/file/d/1w7wCnQRDTbovLiVb7FG1CaDZm75W5owB/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
         "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MIvW8lYOoODMcF4uMd3AfOQ",
         "resources" : [
@@ -44,13 +44,13 @@
     "scoping" : {
         "title" : "Domain/Range, HOFs, Scoping",
         "worksheet" : "https://drive.google.com/file/d/1hx1AE53Z2YmQ84VQc8ADO7BNcNQ2Utoo/view?usp=drivesdk",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1AOAJxXpKnNEGJBQeiw9Zxm50qR89uv-4/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MKweAzb42I5sjEXz5oq-y_8",
         "resources" : [
             {
                 "title" : "GDrive recording mirror",
-                "link" : null
+                "link" : "https://drive.google.com/drive/folders/1HiGMiVBrEEVGn0BLqAlUVfQhD4YvxhL_?usp=sharing"
             },
             {
                 "title" : "Extra Quest Review Worksheet",
