@@ -46,13 +46,13 @@
     "algorithms" : {
         "title" : "Algorithms",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/0B4EVGAjXEk4sQlZ2RzlZd25jQU0/view",
         "resources" : null
     },
     "complexity" : {
         "title" : "Algorithmic Complexity",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/0B4EVGAjXEk4sMHRCZ2dtdlBuNlE/view",
         "resources" : null
     },
     "recursion one" : {
