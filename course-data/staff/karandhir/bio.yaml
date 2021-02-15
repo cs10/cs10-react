@@ -1,0 +1,27 @@
+# NOTE: You can leave anything blank by typing `~`.
+# If you want to include colons in your response, put double quotes around your response.
+
+name: Karan Dhir
+email: karan.dhir@berkeley.edu
+year: Sophomore
+major: Computer Science and Math
+pronouns: he/him/his
+responses:
+  # Where did you grow up? What was your path to Cal?
+  - I grew up in New York, then moved to New Delhi before coming back here to California.
+
+  # How much programming have you done? Which Languages?
+  - I started in my freshman year with CS10 and I've now done a bit of Python, SQL, Java, C, HTML, CSS, and JavaScript
+
+  # What are your Hobbies?
+  - ~
+
+  # What are some of your talents and skills?
+  - ~
+
+  # Have you done anything remarkable? Has anything memorable happened to you?
+  - ~
+
+  # What commitments will be consuming your cycles this semester?
+  - I'm a project manager at PlexTech, a front end developer for eCode, and a Professional Officer for MUSA.
+  
