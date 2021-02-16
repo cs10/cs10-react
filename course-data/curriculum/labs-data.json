@@ -107,6 +107,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
+            "Reading Response Question (Required): What does it mean to say an algorithm has time complexity O(n^2)?",
             "How does the test block work? What is its domain and range?",
             "Show us the output of your test block on the merge column. Explain why this output makes sense.",
             "How will writing tests help you for the 2048 assignment?",
@@ -120,7 +121,6 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
-            "Reading Response Question (Required): In the first chapter of Blown to Bits, do the authors argue that technology is inherently a good thing, a bad thing, or neither good nor bad?  Give an example from the reading that supports this claim.",
             "Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?",
             "Show your working board game by moving the sprite around the board.",
             "Explain an advantage of using an underlying board structure when designing a game."
@@ -132,7 +132,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
-            "Reading Response Question (Required): Turkle argues that “if we never learn to be alone, we’ll only know how to be lonely”. Briefly explain how social media and communication technology relates to this claim. Connect your explanation to the key points that Turkle makes in her presentation.",
+            "Reading Response Question (Required): In the first chapter of Blown to Bits, do the authors argue that technology is inherently a good thing, a bad thing, or neither good nor bad?  Give an example from the reading that supports this claim.",
             "Please show me your “crazy-tree” block.",
             "Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?",
             "Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?",
