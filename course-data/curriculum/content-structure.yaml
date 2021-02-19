@@ -85,13 +85,14 @@
   readings:
     - "algo-complexity"
   dans-oh:
-    - week5
+    - none
 
 6:
   lectures:
     - recursion one
     - recursion two
-  live-sessions: []
+  live-sessions:
+    - recursion
   labs:
     - boards
     - fractals
