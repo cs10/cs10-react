@@ -58,7 +58,7 @@
     "recursion one" : {
         "title" : "Recursion I",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/0B4EVGAjXEk4sQnE4ZE1uZVoxam8/view",
         "resources" : null
     },
     "testing + proj3" : {
@@ -71,7 +71,7 @@
     "recursion two" : {
         "title" : "Recursion II",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/1vwk7lhVjAEaRkVBKKdKmVnutmdP1tfcY/view?usp=sharing",
         "resources" : null
     },
 
