@@ -132,8 +132,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
-            "Reading Response Question (Required): Turkle argues that “if we never learn to be alone, we’ll only know how to be lonely”. Briefly explain how social media and communication technology relates to this claim. Connect your explanation to the key points that Turkle makes in her presentation.",
-            "Please show me your “crazy-tree” block.",
+            "Reading Response Question (Required): In the first chapter of Blown to Bits, do the authors argue that technology is inherently a good thing, a bad thing, or neither good nor bad?  Give an example from the reading that supports this claim.",
             "Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?",
             "Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?",
             "What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.",
