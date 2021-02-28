@@ -123,9 +123,9 @@
     "recursion1" : {
         "title" : "Recursion I",
         "worksheet" : "https://drive.google.com/file/d/1xzB5nUH7pGkoda15V5ucJBZKy1NSePh2/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/19euYiLmKTYQmU-oJ4UsLkIMplQosDFyM/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/watch?v=NXsKneMkBqQ&feature=youtu.be",
         "resources" : [
             {
                 "title" : "Recursion write up (Murtz)",

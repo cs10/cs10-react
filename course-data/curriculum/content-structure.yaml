@@ -108,7 +108,8 @@
   lectures:
     - social implications two
     - recursion three
-  live-sessions: []
+  live-sessions:
+    - recursion iii + social implications
   labs:
     - recursiveReporters
   discussion:
