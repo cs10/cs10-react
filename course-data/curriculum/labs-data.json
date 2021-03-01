@@ -145,6 +145,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_sfa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
+            "Reading Response Question: Turkle argues that “if we never learn to be alone, we’ll only know how to be lonely”. Briefly explain how social media and communication technology relates to this claim. Connect your explanation to the key points that Turkle makes in her presentation.", 
             "Why do we map the first item of the set in front of a recursive call of subsets _ over the rest of the list?",
             "Explain why the second version of subsets _ only makes 7 calls instead of 64. (OPTIONAL EXERCISE)",
             "Explain how the sort _ block works, how the merge _ block works, and how they work together.",
