@@ -148,9 +148,10 @@
     "recursion2" : {
         "title" : "Recursion II",
         "worksheet" : "https://drive.google.com/file/d/18yEQw5DJHBGRe69YmG1rlp6R4bLzo0kb/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1-EjW795yALcKy55k7ftes1KiAP55PPAT/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MLkNzAgxY_vvFXYDDboitIS",
+        "live-recording": "https://drive.google.com/drive/folders/13Coelh2Zsdn2uEOfjlCcPkM_UOIJQkD8?usp=sharing",
         "resources" : [
             {
                 "title" : "Count Change Guide (Murtz)",
@@ -163,7 +164,7 @@
         ]
     },
     "midtermReview" : {
-        "title" : "Midterm Review",
+        "title" : "Midterm Review (Tu, W, Th)",
         "worksheet" : null,
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
