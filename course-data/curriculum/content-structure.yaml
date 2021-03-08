@@ -125,7 +125,8 @@
   lectures:
     - procedures
     - paradigms
-  live-sessions: []
+  live-sessions:
+    - mt week
   labs:
     - functionsAsData
   discussion:
@@ -148,8 +149,7 @@
     - python1
   projects:
     - explore
-  readings:
-    - "why-python-is-lit" # Note this should be changed
+  readings: []
   dans-oh:
     - week9
 
