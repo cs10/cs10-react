@@ -165,11 +165,11 @@
     },
     "midtermReview" : {
         "title" : "Midterm Review (Tu, W, Th)",
-        "worksheet" : null,
+        "worksheet" : "https://piazza.com/class/kjt2jqnct3u2m?cid=111",
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
         "recording" : null,
-        "live-recording": null,
+        "live-recording": "https://drive.google.com/drive/folders/11HhjWGHkt_IF9ihbNUG95u8KnTGtUYcd?usp=sharing",
         "resources" : [
             {
                 "title" : "Extra Practice Fractals",
