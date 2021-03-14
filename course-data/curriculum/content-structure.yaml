@@ -68,7 +68,7 @@
   readings:
     - algorithms
   dans-oh:
-    - none
+    - week4
 
 5:
   lectures:
@@ -85,7 +85,7 @@
   readings:
     - "algo-complexity"
   dans-oh:
-    - none
+    - week5
 
 6:
   lectures:
@@ -104,6 +104,7 @@
     - "blown-to-bits"
   dans-oh:
     - week6
+
 7:
   lectures:
     - social implications two
@@ -141,7 +142,8 @@
   lectures:
     - python one
     - python two
-  live-sessions: []
+  live-sessions:
+    - python intro
   labs:
     - pythonIntro
     - dataStructures
@@ -161,7 +163,7 @@
   projects: []
   readings: []
   dans-oh:
-    - none
+    - week10
 
 11:
   lectures:

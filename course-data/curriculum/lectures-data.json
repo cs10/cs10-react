@@ -98,14 +98,14 @@
     "python one" : {
         "title" : "Python I: Welcome to Python",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/1ul38i2ubK-ikVk57KWtzrb_KK8IS-Kkc/view?usp=sharing",
         "resources" : null
     },
 
     "python two" : {
         "title" : "Python II: Data Structures",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/1NsGHa7YWZ0cLQZhqIDwjwsbCVfgukMA_/view?usp=sharing",
         "resources" : null
     },
 
