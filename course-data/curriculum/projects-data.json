@@ -25,8 +25,8 @@
     },
     "explore" : {
         "title" : "Project 4: Explore Post",
-        "spec" : null,
-        "submit" : null,
+        "spec" : "https://docs.google.com/document/d/1KSl38qGJpm7ttkNcA-LQQAjvvIxBtk2urir5SHqihtY/edit",
+        "submit" : "https://www.gradescope.com/courses/224752/assignments/1099448",
         "resources" : [
             {
                 "title" : "EasyBib",
