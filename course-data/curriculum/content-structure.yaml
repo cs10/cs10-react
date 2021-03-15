@@ -151,7 +151,8 @@
     - python1
   projects:
     - explore
-  readings: []
+  readings:
+    - why-python-is-lit
   dans-oh:
     - week9
 

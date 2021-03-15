@@ -168,7 +168,6 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
-            "Reading Response Question (Required): Name the 5 things that the author Elliot Hauser stated as most important in a student's first programming language. Explain briefly how Python excels at one of these reasons. Do you agree with his 5 most important characteristics? If yes, why? If not, what other characteristics do you think are more important?",
             "What is the difference between the \"python\", \"python file.py\", and \"python -i file.py\" terminal commands?",
             "What is the difference between the \"print\" and \"return\" python commands?",
             "Show your \"reverse_string(string)\" function. If you did it iteratively, explain the recursive solution. If you did it recursively, explain the iterative solution.",
@@ -182,6 +181,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
+            "Reading Response Question (Required): Name the 5 things that the author Elliot Hauser stated as most important in a student's first programming language. Explain briefly how Python excels at one of these reasons. Do you agree with his 5 most important characteristics? If yes, why? If not, what other characteristics do you think are more important?",
             "What is the difference between = and == in python?",
             "Show us the result of running the autograder.",
             "What is a dictionary?",
