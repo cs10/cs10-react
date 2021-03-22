@@ -188,15 +188,11 @@
     "python1" : {
         "title" : "Intro to Python",
         "worksheet" : "https://drive.google.com/file/d/1K0YBq6JkOqjfpdtYT9oly9bhzH6PwZpP/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1_bj0YynEotDWtVjfb_1RQihmd9lMm1h5/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/watch?v=yjkOKNNTUCA",
         "live-recording": null,
         "resources" : [
-            {
-                "title" : "Kahoot!",
-                "link" : "https://create.kahoot.it/share/discussion-9-intro-to-python/9086a47f-7b3b-4f0f-985a-1112f06fcc9e"
-            },
             {
                 "title" : "Python Cheat Sheet",
                 "link" : "https://docs.google.com/document/d/119yepX72fEf6c4Dd8ZT6bl22pZa0ZMCionJE86Ktw8Y/edit?usp=sharing"
