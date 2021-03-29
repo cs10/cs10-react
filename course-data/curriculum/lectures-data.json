@@ -112,14 +112,14 @@
     "python three" : {
         "title" : "Python III: HOFs",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/1V_Ij20ZPNPiBGUIg2RtCQutOS-ZbgzEf/view",
         "resources" : null
     },
 
     "python four" : {
         "title" : "Python IV: OOP",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/1_Ve_hdoM7FIybhZZDUcnZhFwmXvEVWvv/view",
         "resources" : null
     },
 

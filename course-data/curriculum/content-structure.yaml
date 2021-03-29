@@ -170,7 +170,8 @@
   lectures:
     - python three
     - python four
-  live-sessions: []
+  live-sessions: 
+    - python wk 2
   labs:
     - oop
     - textProcessing
