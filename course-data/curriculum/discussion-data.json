@@ -517,5 +517,14 @@
                 "link" : "https://www.edureka.co/blog/self-in-python/#:~:text=The%20self%20is%20used%20to,attributes%20with%20the%20given%20arguments.&text=In%20Python%2C%20we%20have%20methods,automatically%2C%20but%20not%20received%20automatically."
             }
         ]
+    },
+    "break" : {
+        "title" : "Break -- No Section",
+        "worksheet" : null,
+        "solutions" : null,
+        "slides" : null,
+        "recording" : null,
+        "live-recording" : null,
+        "resources" : []
     }
 }
