@@ -222,11 +222,15 @@
     "python2" : {
         "title" : "Data Structures in Python",
         "worksheet" : "https://drive.google.com/file/d/1dzfgUWryAPw5obI78qbA3vgjQFcVXH4Y/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1e9JSZ3CoXk0Jdqhr8XiCNM2tWLt_uyti/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
-        "live-recording": null,
+        "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MJcrnzWJlLzWNjab39-uswG",
+        "live-recording": "https://drive.google.com/drive/folders/1Qo6IgLyM0xBKvgoM95VF-oCOg9GYoRe4?usp=sharing",
         "resources" : [
+            {
+                "title" : "OOP Demo",
+                "link" : "https://drive.google.com/file/d/1DQLGl25x8WlSccLAZUsgvhdSnW4Xkcg9/view?usp=sharing"
+            },
             {
                 "title" : "Extra Dictionary Problems",
                 "link" : "https://d1b10bmlvqabco.cloudfront.net/attach/jkznd4vgw2k2c8/hzd1kyj0qc02c7/jojnuxcab8i8/questions.py"
