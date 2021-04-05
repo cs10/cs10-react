@@ -190,7 +190,8 @@
   lectures:
     - social implications three
     - python five
-  live-sessions: []
+  live-sessions: 
+    - python wk 3
   labs:
     - dataScience
     - libraries

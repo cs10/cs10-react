@@ -33,7 +33,7 @@
     "social implications three" : {
         "title" : "Social Implications III",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
+        "webcast_slides" : "https://drive.google.com/file/d/10Z3ffNEYbWHfJYzTqF7OScpHhViNxHma/view?usp=sharing",
         "resources" : null
     },
     "concurrency" : {
@@ -113,7 +113,7 @@
         "title" : "Python III: OOP",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
         "webcast_slides" : "https://drive.google.com/file/d/1_Ve_hdoM7FIybhZZDUcnZhFwmXvEVWvv/view",
-        "resources" : null
+        "resources" : "https://drive.google.com/drive/folders/1uCFeNgNzDY_BRE9ga6zNWvkqhW96KvSO?usp=sharing"
     },
 
     "python four" : {
@@ -126,8 +126,8 @@
     "python five" : {
         "title" : "Python V: Tree Recursion and Game Theory",
         "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
-        "webcast_slides" : null,
-        "resources" : null
+        "webcast_slides" : "https://drive.google.com/file/d/1k49qQklc5kZb7h9CompO9mon8ajnNwb7/view?usp=sharing",
+        "resources" : "https://drive.google.com/drive/u/1/folders/1QQ7gPIhSiRQCb24GrhcEHGDH2MqC1YhP"
     },
 
     "limits" : {
