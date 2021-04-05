@@ -221,7 +221,6 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
-            "Reading Response Question (Required): The NYT piece highlights that women once had a significant presence in early computer programming. Thompson identifies 1984 as the turning point when programming socially came to be seen more for men. Briefly explain the conditions and events that took place around that time which led to the exclusion of women from programming in academia (not the private sector).",
             "What are some important commands that you can use to keep only certain rows in a table?",
             "Describe the three main steps of working with data as per this lab.",
             "What commands did you use to find the price of the most expensive listing in San Francisco?",
@@ -234,6 +233,7 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
+            "Reading Response Question (Required): What is digital data and how is it different from previous history innovations?",
             "Bokeh:",
             "What other ways can you think of to visualize our data? Take a look at the Bokeh gallery or documentation for some examples and inspiration.",
             "Show your final COVID-19 map",
