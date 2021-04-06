@@ -73,7 +73,7 @@ function TextbookSections() {
             link: "#5"
         },
         {
-            icon: "psychology",
+            icon: "help_rounded",
             label: "Practice Problems",
             link: "#practiceproblems"
         }
