@@ -617,7 +617,7 @@ function GradingBins() {
         },
         {
             grade: "F",
-            range: [0, 200]
+            range: [0, 299]
         },
     ]
     
