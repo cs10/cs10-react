@@ -40,6 +40,12 @@
         "submit" : "https://www.gradescope.com/courses/224752/assignments/927237",
         "resources" : []
     },
+    "proposal" : {
+        "title" : "Project 6: Final Project Proposal",
+        "spec" : "https://docs.google.com/document/d/1UqkhGQMYPNzui-F8-hNFjL7_kHpAA-WZI3Exy8I09fA/edit",
+        "submit" : "https://www.gradescope.com/courses/224752/assignments",
+        "resources" : []
+    },
     "final" : {
         "title" : "Project 6: Final Project",
         "spec" : null,
