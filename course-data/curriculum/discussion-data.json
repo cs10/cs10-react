@@ -245,11 +245,15 @@
     "python3" : {
         "title" : "OOP in Python",
         "worksheet" : "https://drive.google.com/file/d/1KCGdnnYDTkc644XaZvWA-nXOlvf2n_V9/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1kg24bfEY27LO0BuNO443ma_ECMOT_A7t/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/watch?v=ZdGv3HkYNpg&feature=youtu.be",
         "live-recording": null,
         "resources" : [
+            {
+                "title" : "OOP Demo",
+                "link" : "https://drive.google.com/file/d/1DQLGl25x8WlSccLAZUsgvhdSnW4Xkcg9/view?usp=sharing"
+            },
             {
                 "title" : "Programiz OOP Write Up",
                 "link" : "https://www.programiz.com/python-programming/object-oriented-programming"
