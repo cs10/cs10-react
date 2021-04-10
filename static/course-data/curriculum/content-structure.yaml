@@ -209,7 +209,8 @@
   lectures:
     - concurrency
     - hci
-  live-sessions: []
+  live-sessions:
+    - concurrency
   labs:
     - concurrency
   discussion:
