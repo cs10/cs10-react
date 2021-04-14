@@ -79,8 +79,9 @@
         "link" : "https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=cs10_fa20.html&novideo&noreading&noassignment",
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
+            "Reading Response Question (Required): The NYT piece highlights that women once had a significant presence in early computer programming. Thompson identifies 1984 as the turning point when programming socially came to be seen more for men. Briefly explain the conditions and events that took place around that time which led to the exclusion of women from programming in academia (not the private sector).",
             "What is a race condition?",
-            "s it always true that splitting a task among 10 “workers” is better than splitting it among 5 “workers”?",
+            "Is it always true that splitting a task among 10 “workers” is better than splitting it among 5 “workers”?",
             "What is the difference between determinism and nondeterminism, in the context of concurrency?",
             "How does Snap! handle concurrency?"
         ]
