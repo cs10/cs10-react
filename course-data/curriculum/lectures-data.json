@@ -131,8 +131,8 @@
     },
 
     "limits" : {
-        "title" : "Limits of Computing",
-        "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
+        "title" : "[Live] Limits of Computing (No PL Video)",
+        "webcast" : null,
         "webcast_slides" : null,
         "resources" : null
     },

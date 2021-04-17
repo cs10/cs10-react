@@ -271,9 +271,9 @@
     "python4" : {
         "title" : "Python HOFs, Lambdas, and Tree Recursion",
         "worksheet" : "https://drive.google.com/file/d/1Smy9-GYFUvBCy3UqWLgYNw9tpsW-LXof/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1x1CPxhDzF6Zs2kF512fBzXkNfIrlP1jK/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
+        "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MLqZ335qknLqj-422OjEr3Q",
         "live-recording": null,
         "resources" : [
             {
@@ -292,6 +292,7 @@
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
         "recording" : null,
+        "live-recording" : null,
         "resources" : [
             {
                 "title" : "FA19 Final Walkthrough Videos",
