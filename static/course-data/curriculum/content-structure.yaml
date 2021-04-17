@@ -227,7 +227,8 @@
   lectures:
     - limits
     - ai
-  live-sessions: []
+  live-sessions:
+    - ai
   labs: []
   discussion:
     - finalReview1
