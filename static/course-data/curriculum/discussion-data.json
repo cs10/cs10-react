@@ -286,34 +286,17 @@
             }
         ]
     },
-    "finalReview1" : {
-        "title" : "Final Exam Review 1",
+    "socialimpl" : {
+        "title" : "Social Implications",
         "worksheet" : null,
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
         "recording" : null,
         "live-recording" : null,
-        "resources" : [
-            {
-                "title" : "FA19 Final Walkthrough Videos",
-                "link" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MKIWZyMaq39zP4hHxOorqKq"
-            },
-            {
-                "title" : "TA/AI+ Q&A Panel",
-                "link" : "https://www.youtube.com/watch?v=fEWqfMbjam0"
-            },
-            {
-                "title" : "Extra Final Review Worksheet",
-                "link" : "https://drive.google.com/file/d/1u3dsAuF03t-oc3qdm48qtwIc_6VVJOEH/view?usp=sharing"
-            },
-            {
-                "title" : "Extra Final Review Solutions",
-                "link" : "https://drive.google.com/file/d/1m2TlMMlFgNOQCz1wAf7UScLpNbDZ5Djv/view?usp=sharing"
-            }
-        ]
+        "resources" : []
     },
-    "finalReview2" : {
-        "title" : "Final Exam Review 2 and Farewell",
+    "finalReview" : {
+        "title" : "Final Exam Review and Farewell",
         "worksheet" : null,
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
