@@ -132,8 +132,8 @@
 
     "limits" : {
         "title" : "[Live] Limits of Computing (No PL Video)",
-        "webcast" : null,
-        "webcast_slides" : null,
+        "webcast" : "https://drive.google.com/file/d/1QnLxoLAnpLdBfKir8HiHqKqy5FidyC7E/view?usp=sharing",
+        "webcast_slides" : "https://docs.google.com/presentation/d/1kYwrLztgKcm5PZsY8MTfsHMSgtyRB-2gDFnhJ7ZgBnM/edit?usp=sharing",
         "resources" : null
     },
 
