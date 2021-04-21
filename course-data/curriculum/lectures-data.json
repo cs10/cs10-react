@@ -152,15 +152,15 @@
     },
 
     "alumni" : {
-        "title" : "Alumni Panel",
-        "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
+        "title" : "[LIVE] Alumni Panel (No PL)",
+        "webcast" : null,
         "webcast_slides" : null,
         "resources" : null
     },
 
     "farewell" : {
-        "title" : "Farewell!",
-        "webcast" : "https://cbt-dev.berkeley.edu/pl/course_instance/23/assessments",
+        "title" : "[LIVE] Farewell! (No PL)",
+        "webcast" : null,
         "webcast_slides" : null,
         "resources" : null
     },
