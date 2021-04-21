@@ -228,7 +228,7 @@
     - limits
     - ai
   live-sessions:
-    - ai
+    - limits
   labs: []
   discussion:
     - socialimpl
