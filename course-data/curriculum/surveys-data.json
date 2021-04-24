@@ -1,0 +1,16 @@
+{
+    "final survey" : {
+        "title" : "Final Survey",
+        "link" : "https://forms.gle/hjJ4SE4k9xLuyFDF9",
+        "details" : []
+    },
+
+    "course evals" : {
+        "title" : "Course Evals",
+        "link" : "https://course-evaluations.berkeley.edu/",
+        "details" : [
+            "+1 point: Everyone gets this bonus if 80% of the class fills out course evals.",
+            "+1 point: Each person that posts proof that they have filled out the eval gets this bonus. To do this, post a screenshot of the homepage with the completed evaluations to Gradescope. The screenshot must include your name at the top. See example in Piazza"
+        ]
+    }
+}
