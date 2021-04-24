@@ -14,6 +14,8 @@
     - survey
   readings: []
   dans-oh: []
+  surveys: []
+  exams: []
 
 2:
   lectures:
@@ -32,6 +34,8 @@
     - "code-stars"
   dans-oh:
     - week2
+  surveys: []
+  exams: []
 
 3:
   lectures:
@@ -51,6 +55,9 @@
     - "intro-to-abstraction"
   dans-oh:
     - week3
+  surveys: []
+  exams:
+    - quest
 
 4:
   lectures:
@@ -69,6 +76,8 @@
     - algorithms
   dans-oh:
     - week4
+  surveys: []
+  exams: []
 
 5:
   lectures:
@@ -86,6 +95,8 @@
     - "algo-complexity"
   dans-oh:
     - week5
+  surveys: []
+  exams: []
 
 6:
   lectures:
@@ -104,6 +115,8 @@
     - "blown-to-bits"
   dans-oh:
     - week6
+  surveys: []
+  exams: []
 
 7:
   lectures:
@@ -121,6 +134,8 @@
     - "connected-but-alone"
   dans-oh:
     - week7
+  surveys: []
+  exams: []
 
 8:
   lectures:
@@ -137,6 +152,9 @@
   readings: []
   dans-oh:
     - week8
+  surveys: []
+  exams:
+    - midterm
 
 9:
   lectures:
@@ -155,6 +173,8 @@
     - why-python-is-lit
   dans-oh:
     - week9
+  surveys: []
+  exams: []
 
 10:
   lectures: []
@@ -167,6 +187,8 @@
   readings: []
   dans-oh:
     - week10
+  surveys: []
+  exams: []
 
 11:
   lectures:
@@ -185,6 +207,8 @@
     - alphastar
   dans-oh:
     - week11
+  surveys: []
+  exams: []
 
 12:
   lectures:
@@ -204,6 +228,8 @@
     - "data-science"
   dans-oh:
     - week12
+  surveys: []
+  exams: []
   
 13:
   lectures:
@@ -222,6 +248,8 @@
     - "women-in-coding"
   dans-oh:
     - week13
+  surveys: []
+  exams: []
 
 14:
   lectures:
@@ -237,12 +265,15 @@
   readings: []
   dans-oh:
     - week14
+  surveys: []
+  exams: []
 
 15:
   lectures:
     - alumni
     - farewell
-  live-sessions: []
+  live-sessions:
+    - alumni
   labs: []
   discussion:
     - finalReview
@@ -251,6 +282,10 @@
   readings: []
   dans-oh:
     - week15
+  surveys:
+    - final survey
+    - course evals
+  exams: []
 
 16:
   lectures: []
@@ -260,3 +295,22 @@
   projects: []
   readings: []
   dans-oh: []
+  surveys:
+    - final survey
+    - course evals
+  exams:
+    - final
+
+17:
+  lectures: []
+  live-sessions: []
+  labs: []
+  discussion: []
+  projects: []
+  readings: []
+  dans-oh: []
+  surveys:
+    - final survey
+    - course evals
+  exams:
+    - final

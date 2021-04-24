@@ -1,0 +1,11 @@
+{
+    "quest" : {
+        "title" : "Quest"
+    },
+    "midterm" : {
+        "title" : "Midterm"
+    },
+    "final" : {
+        "title" : "Final May 8-11"
+    }
+}

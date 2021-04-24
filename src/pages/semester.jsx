@@ -49,7 +49,7 @@ class SemesterPage extends React.Component {
         if (this.finishedLoadingData()) {
             let allWeekContent = [];
 
-            for (let week = 1; week <= 15; week++) {
+            for (let week = 1; week <= 17; week++) {
                 allWeekContent.push(
                     <div className="week-content col-5" style={{marginTop: "40px"}}>
                         <h5>

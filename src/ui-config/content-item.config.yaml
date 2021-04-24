@@ -110,3 +110,24 @@ dans-oh:
       label: recording
   extra-links: []
   static-contents: []
+
+surveys:
+  label: Survey
+  displayed-links:
+    - link
+  core-links:
+    link:
+      icon: link
+      label: link
+  extra-links: []
+  static-contents:
+    - key: details
+      label: Details
+      format: ul
+
+exams:
+  label: Exam
+  displayed-links: []
+  core-links: {}
+  extra-links: []
+  static-contents: []
