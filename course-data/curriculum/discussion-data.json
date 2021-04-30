@@ -294,12 +294,16 @@
     },
     "finalReview" : {
         "title" : "Final Exam Review and Farewell",
-        "worksheet" : null,
+        "worksheet" : "https://drive.google.com/file/d/1FGSzAs9AEETAd9x3H4dJ34kPecf3StJp/view?usp=sharing",
         "solutions" : null,
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
         "recording" : null,
         "live-recording": null,
         "resources" : [
+            {
+                "title" : "CS10 Final Resource Guide",
+                "link" : "https://docs.google.com/document/d/1oyZlkwQSG1xxvguR2QEGBEPdmu2bdderFguhTCj-VX0/edit?usp=sharing"
+            },
             {
                 "title" : "FA19 Final Walkthrough Videos",
                 "link" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MKIWZyMaq39zP4hHxOorqKq"
