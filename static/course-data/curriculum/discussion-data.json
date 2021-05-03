@@ -295,10 +295,10 @@
     "finalReview" : {
         "title" : "Final Exam Review and Farewell",
         "worksheet" : "https://drive.google.com/file/d/1FGSzAs9AEETAd9x3H4dJ34kPecf3StJp/view?usp=sharing",
-        "solutions" : null,
+        "solutions" : "https://drive.google.com/file/d/1FGSzAs9AEETAd9x3H4dJ34kPecf3StJp/view?usp=sharing",
         "slides" : "https://drive.google.com/drive/folders/1Auyojr0XbhqtwjpTiHbnO9Kyx-AkbeyD?usp=sharing",
-        "recording" : null,
-        "live-recording": null,
+        "recording" : "https://www.youtube.com/playlist?list=PLFtj8IkGH5MLOa4ZLirTDu-1FCP_dEit0",
+        "live-recording": "https://drive.google.com/drive/folders/1xk2LgxlOgUC3wJ5bcUUW6CufUV26yxCf?usp=sharing",
         "resources" : [
             {
                 "title" : "CS10 Final Resource Guide",
