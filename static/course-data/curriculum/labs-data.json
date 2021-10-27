@@ -210,9 +210,9 @@
         "checkoff" : "https://forms.gle/72HPHeLhThUKDzk96",
         "checkOffQuestions" : [
             "Describe the purpose of an \"init\" function.",
-            "What takes precedence, an instance attribute or a class attribute?",
+            "To access a class variable, should you use the class name or an instance name?",
             "Name two different ways to assign instance attributes.",
-            "Show us your \"outdated\" and \"add_genre\" methods.",
+            "Show us your \"outdated\" and \"add_to_genres\" methods.",
             "Show us your completed UCBMFET class."
         ]
     },
